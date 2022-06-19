@@ -8,7 +8,7 @@
 if [ "$1" != "" ]; then
 latest_version="$1"
 else
-latest_version=`/usr/bin/curl -L https://raw.githubusercontent.com/duy13/vDDoS-Protection/master/CHANGELOG.txt|grep '*vDDoS-' |awk 'NR==1' |tr -d '*vDDoS-'|tr -d ':'`
+latest_version=`/usr/bin/curl -L https://raw.githubusercontent.com/MissingSyntax/Sphinx-Protection/master/CHANGELOG.txt|grep '*Sphinx DDoS-' |awk 'NR==1' |tr -d '*vDDoS-'|tr -d ':'`
 fi
 /usr/bin/curl -L https://raw.githubusercontent.com/MissingSyntax/Sphinx-Protection/master/vddos-$latest_version.tar.gz -o vddos-$latest_version.tar.gz
 
