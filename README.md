@@ -1,5 +1,4 @@
-<div alt="Sphinx DDoS Proxy Protection Logo" class="separator" style="clear: both; text-align: center;">
-<a href="https://lh3.googleusercontent.com/-OGKhMCGE8z8/YjRqfduLNbI/AAAAAAAADBo/BW2y2DLvp3ENp-13sRacxkIAJ8SxqAXBQCNcBGAsYHQ/s1600/vDDoS-proxy-protection.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img align="right" border="0" src="https://lh3.googleusercontent.com/-OGKhMCGE8z8/YjRqfduLNbI/AAAAAAAADBo/BW2y2DLvp3ENp-13sRacxkIAJ8SxqAXBQCNcBGAsYHQ/s222/vDDoS-proxy-protection.png" /></a></div>
+<div alt="Sphinx DDoS Proxy Protection Logo" class="separator" style="clear: both; text-align: center;"></div>
 
 Sphinx Proxy Protection
 ===================
