@@ -22,7 +22,7 @@ Error 5xx</h1>
 <h2 class="cf-subheadline" style="background-color: white; border: 0px; color: #999999; font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 2vw; font-stretch: inherit; font-variant-numeric: inherit; font-weight: 300; line-height: 1.3; margin: 0px; padding: 0px; vertical-align: baseline;">
 <span data-translate="complete_sec_check" style="border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;">Backend server is down</span></h2>
 
-<img style="max-width:100%;height:auto;" src="https://lh5.googleusercontent.com/-HlvJb1CQn-s/WeY34v2J3aI/AAAAAAAABtQ/ijvU8ORoZx8JomHHVOX01E9BYwgufKubgCLcBGAs/s900/5xx-vDDoS.png" />
+<img style="max-width:100%;height:auto;" src="https://lh4.googleusercontent.com/uppYDQOwfsd8H0f5GHlk5YMIJdUrjtyslG0fq9Az0eyjAMq_ooK0TwOxLyPSWF6Mv6P-R2leDGzUEuYhJEoL=w1920-h929-rw" />
 
 <h2 class="cf-subheadline" style="background-color: white; border: 0px; color: #999999; font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 2vw; font-stretch: inherit; font-variant-numeric: inherit; font-weight: 300; line-height: 1.3; margin: 0px; padding: 0px; vertical-align: baseline;">
 <span data-translate="complete_sec_check" style="border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;">vDDoS Protection is working fine but the origin web server is not reachable. <a href="">(Refresh)</a></span></h2>
