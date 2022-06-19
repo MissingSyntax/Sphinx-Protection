@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta charset="UTF-8">
-<title>Attention Required! vDDoS Protection</title>
+<title>Attention Required! DDoS Protection</title>
 </head>
 <center>
 <h1 data-translate="challenge_headline" style="background-color: white; border: 0px; color: #404040; font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 4em; font-stretch: inherit; font-variant-numeric: inherit; font-weight: 300; line-height: 1.2; margin: 0px; padding: 0px; vertical-align: baseline;">
