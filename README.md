@@ -21,6 +21,12 @@ Install
 
 Install DDoS Proxy Protection Latest Version:
 ```
+apt update; apt -y install wget zip unzip tar curl ca-certificates && \
+apt install -y perl libperl-dev libgd3 libgd-dev libgeoip1 libgeoip-dev geoip-bin libxml2 libxml2-dev libxslt1.1 libxslt1-dev  && \
+apt-get -y install build-essential libpcre3 libpcre3-dev zlib1g zlib1g-dev libssl-dev libgd-dev libxml2 libxml2-dev uuid-dev  && \
+apt -y install curl wget build-essential checkinstall   && \
+apt -y install net-tools sshpass rsync sysstat bc dnsutils  && \
+apt -y install libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev libffi-dev zlib1g-dev && \
 wget https://raw.githubusercontent.com/MissingSyntax/Sphinx-Protection/master/latest.sh ; chmod 700 latest.sh ; bash latest.sh
 
 
